@@ -30,7 +30,7 @@ nav button {
 header {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     padding: 20px 130px 20px 130px;
     background-color: #163A24;
     color: white;
